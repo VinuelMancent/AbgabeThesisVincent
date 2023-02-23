@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Registration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Registration2.config.xsd">
+  <PluginConfiguration>
+    <Plugin name="OrchestratorPlugin" active="true" rootFolder="." binFolder=".\bin" settingsFolder="settings" objectFactory="OrchestratorPluginFactory">
+		<DependsOn>Mmc200x</DependsOn>
+	</Plugin>
+  </PluginConfiguration>
+</Registration>

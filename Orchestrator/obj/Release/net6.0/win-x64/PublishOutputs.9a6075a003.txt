@@ -1,0 +1,5 @@
+C:\dev\vincent\orchestrator\Orchestrator\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\dev\vincent\orchestrator\Orchestrator\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\dev\vincent\orchestrator\Orchestrator\obj\Release\net6.0\win-x64\PubTmp\Out\Orchestrator.pdb
+C:\dev\vincent\orchestrator\Orchestrator\obj\Release\net6.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\dev\vincent\orchestrator\Orchestrator\obj\Release\net6.0\win-x64\PubTmp\Out\Orchestrator.exe

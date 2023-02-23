@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\dev\vincent\orchestrator\Orchestrator\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-02-17T09:23:50.2331640Z;False|2023-02-17T10:23:37.3887548+01:00;False|2023-02-17T10:19:10.8014084+01:00;False|2023-02-17T10:18:28.0484083+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

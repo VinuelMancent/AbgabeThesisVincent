@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerServiceProxy", "DockerServiceProxy\DockerServiceProxy.csproj", "{085CBF55-513C-4FD4-8AEA-1D9CF9A9EC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchestrator", "Orchestrator\Orchestrator.csproj", "{0D057330-9D12-406C-BC62-3F93DBAB71C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchestratorPlugin", "OrchestratorPlugin\OrchestratorPlugin.csproj", "{FB8C00D9-F4B4-4D24-84D9-0F4941BB2D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOrchestrator", "TestOrchestrator\TestOrchestrator.csproj", "{86C1CB39-95DA-4D5F-BDDB-0B8929F89DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085CBF55-513C-4FD4-8AEA-1D9CF9A9EC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085CBF55-513C-4FD4-8AEA-1D9CF9A9EC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085CBF55-513C-4FD4-8AEA-1D9CF9A9EC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085CBF55-513C-4FD4-8AEA-1D9CF9A9EC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D057330-9D12-406C-BC62-3F93DBAB71C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D057330-9D12-406C-BC62-3F93DBAB71C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D057330-9D12-406C-BC62-3F93DBAB71C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D057330-9D12-406C-BC62-3F93DBAB71C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8C00D9-F4B4-4D24-84D9-0F4941BB2D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8C00D9-F4B4-4D24-84D9-0F4941BB2D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8C00D9-F4B4-4D24-84D9-0F4941BB2D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8C00D9-F4B4-4D24-84D9-0F4941BB2D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C1CB39-95DA-4D5F-BDDB-0B8929F89DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C1CB39-95DA-4D5F-BDDB-0B8929F89DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C1CB39-95DA-4D5F-BDDB-0B8929F89DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C1CB39-95DA-4D5F-BDDB-0B8929F89DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
